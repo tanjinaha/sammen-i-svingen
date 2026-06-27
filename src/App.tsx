@@ -33,7 +33,7 @@ export default function App() {
           backgroundSize: "70%",
         }}
       >
-        
+
       </section>
 
 
@@ -140,13 +140,16 @@ export default function App() {
             </h2>
             <div className="space-y-3 text-slate-700 leading-7">
               <p>
-                <span className="font-semibold">Oppstart:</span> Kommer snart
+                <span className="font-semibold">Oppstart:</span> 25. juni 2026
               </p>
               <p>
-                <span className="font-semibold">Varighet:</span> Ukentlig / samlinger
+                <span className="font-semibold">Varighet:</span> Ukentlig samling frem til desember 2026
               </p>
               <p>
                 <span className="font-semibold">Tidspunkt:</span> Dagtid
+              </p>
+              <p>
+                <span className="font-semibold">Lengde per samling:</span> 2 timer
               </p>
               <p>
                 <span className="font-semibold">Sted:</span>{" "}
