@@ -193,7 +193,7 @@ export default function App() {
                 <span className="font-semibold">Servering:</span> Kaffe tilgjengelig under kurs
               </p>
               <p>
-                <span className="font-semibold">Antall deltakere:</span> 20–30
+                <span className="font-semibold">Antall deltakere:</span> 15
               </p>
             </div>
           </div>
